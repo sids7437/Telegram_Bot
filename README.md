@@ -37,3 +37,9 @@ https://docs.aiogram.dev/en/latest/
 
 * Now click on url to access the bot
 * Make sure you collect the access token
+
+# Add in .env
+
+'''
+OPENAI_API_KEY = sk-xxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN = xxxxxxxxxxxxxxxxxxxxxxx
